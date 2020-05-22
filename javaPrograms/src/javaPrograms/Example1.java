@@ -8,6 +8,7 @@ public class Example1 {
 	public void method1()
 	{
 		System.out.println("welcome to all of you");
+		System.out.println("pushing code");
 	}
 	public void method2()
 	{
